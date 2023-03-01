@@ -8,4 +8,4 @@
 
 ## Project: Tip Calculator
 
-https://replit.com/@AlexandraNeagu1/band-name-generator?v=1
+https://replit.com/@AlexandraNeagu1/tip-calculator?v=1
