@@ -11,5 +11,5 @@
 
 
 ## Project: Calculator
-https://replit.com/@AlexandraNeagu1/Blind-secret-auction?v=1
+https://replit.com/@AlexandraNeagu1/Calculator?v=1
 
